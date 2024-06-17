@@ -1,0 +1,40 @@
+# Dependencies
+/node_modules/
+
+# Production build
+/build/
+
+# Database files (if applicable)
+.env.local
+.env.development
+.env.production
+
+# Editor temporary files
+*.log
+*.pid
+*.save
+
+# IDE/Text Editor Specific
+# (adjust based on your IDE)
+/.idea/
+/vscode/
+
+# OS specific temp files
+Thumbs.db
+desktop.ini
+
+# Compiled JavaScript (if using a bundler)
+*.js
+
+# Test coverage (optional)
+/coverage/
+
+# Compiled TypeScript (if using TypeScript)
+*.tsx
+*.ts
+
+# Linter output
+**/eslint.cache
+
+# Ignore all test files 
+__tests__/**/*
