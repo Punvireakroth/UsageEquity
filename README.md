@@ -1,14 +1,14 @@
 # UsageEquity
 
-UsageEquity is a web application designed to simplify the process of splitting electricity bills among housemates. Whether you live in a shared apartment or house, ElectricBillSplitter provides a convenient solution for dividing electricity expenses fairly.
+UsageEquity គឺជាកម្មវិធីគេហទំព័រដែលត្រូវបានរចនាឡើងដើម្បីសម្រួលដល់ដំណើរការនៃការបែងចែកវិក្កយបត្រអគ្គិសនីក្នុងចំណោមមិត្តរួមផ្ទះ។ មិនថាអ្នករស់នៅក្នុងអាផាតមិន ឬផ្ទះរួមគ្នាទេ UsageEquity ផ្តល់នូវដំណោះស្រាយដ៏ងាយស្រួលសម្រាប់ការបែងចែកថ្លៃអគ្គិសនីដោយស្មើភាព។
 
 ## Origin of the Problem
 
-Splitting the electric bill among housemates can often be a challenging task, especially when factors like air conditioner usage come into play. The idea for ElectricBillSplitter originated from the need to address this common problem faced by individuals living in shared accommodations. By developing a web application that automates the process of calculating each user's share of the bill based on their electricity usage, we aim to provide a convenient and equitable solution for housemates. 
+ការបំបែកវិក្កយបត្រអគ្គិសនីក្នុងចំណោមមិត្តរួមផ្ទះច្រើនតែអាចជាកិច្ចការដ៏លំបាកមួយ ជាពិសេសនៅពេលដែលកត្តាដូចជាការប្រើប្រាស់ម៉ាស៊ីនត្រជាក់។ គំនិតរបស់ UsageEquity មានប្រភពចេញពីតម្រូវការក្នុងការដោះស្រាយបញ្ហានេះ។ តាមរយៈការបង្កើតកម្មវិធីគេហទំព័រដែលធ្វើស្វ័យប្រវត្តិកម្មដំណើរការនៃការគណនាចំណែករបស់អ្នកប្រើប្រាស់ម្នាក់ៗនៃវិក្កយបត្រដោយផ្អែកលើការប្រើប្រាស់អគ្គិសនីរបស់ពួកគេ ដែលមានគោលបំណងផ្តល់នូវដំណោះស្រាយដ៏ងាយស្រួល និងសមធម៌សម្រាប់មិត្តរួមផ្ទះ។
 
 ## Installation
 
-To run UsageEquity locally, follow these steps:
+ដើម្បីដំណើរការ UsageEquity locally សូមអនុវត្តតាមជំហានទាំងនេះ៖
 
 - Clone the repository
 
@@ -49,11 +49,11 @@ npm start
 
 ## Usage
 
-- Input your electricity usage data, including AC usage if applicable.
-- View your share of the electricity bill and past billing history.
+- បញ្ចូលទិន្នន័យការប្រើប្រាស់អគ្គិសនីរបស់អ្នក រួមទាំងការប្រើប្រាស់ AC ប្រសិនបើចាំបាច់។
+- មើលចំណែករបស់អ្នកនៃវិក្កយបត្រអគ្គិសនី និងប្រវត្តិវិក្កយបត្រពីមុនតាមរយៈក្រាហ្វ។
 
 ## Contributing
-Contributions are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions គឺស្វាគមន៍! ប្រសិនបើអ្នកជួបប្រទះបញ្ហាណាមួយ ឬមានការណែនាំសម្រាប់ការកែលម្អ សូម open an issue ឬដាក់ pull request។
 
 ## License
-This project is licensed under the MIT License.
+Project នេះត្រូវបានផ្តល់អាជ្ញាប័ណ្ណក្រោម MIT License.
